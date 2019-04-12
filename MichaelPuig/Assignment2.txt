@@ -1,0 +1,23 @@
+I am working with Travis Mandeville and we are researching NGC galaxies
+Lick Observatory, August 1st-15th
+Searching for 20 different ngc galaxies on simbad
+We wrote down a list of 20 different galaxies with their RA, DEC and epoch
+We took the list and cut it down to 10 and plugged into jskycalc to see which had the best visibility and
+picked 10 objects with airmass under 1.5
+We have two objects that do not have the best airmass so they will be back up objects (NGC_34, NGC_35)
+We will average about 4 hours of observing per night in this timeframe
+By checking the seasonal observability table, the moon will be new in the early parts of the month so it will
+be best to get observations early in the month
+The moon gets full around the 15th of August which is a problem because these galaxies are not very bright
+and can be easily over powered by the moon
+
+A month later:
+This timeframe will be better than the original one because our objects will be in the sky longer
+In August, our objects would be in the sky with airmass under 1.5 for about 4 hours on average
+while in September they will be in the sky for an average of about 6 hours
+The moon is still new early and the month so it is still best to get most observations in early
+
+
+
+I will tag the Jskycalc screenshots of the airmass graph from August and the seasonal observability
+which tells us how many hours of observing we can have with low airmass and what phase the moon is in
